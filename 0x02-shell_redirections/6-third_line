@@ -1,2 +1,2 @@
 #!/bin/bash
-cut N 3 ./iacta
+wc -l 3 ./iacta
